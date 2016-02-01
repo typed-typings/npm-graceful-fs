@@ -1,0 +1,6 @@
+{
+  "files": [
+    "graceful-fs.d.ts",
+    "typings/main.d.ts"
+  ]
+}
